@@ -1,0 +1,14 @@
+[
+    { "name":"Aquamarine",
+        "code":"#7FFFD4"},
+
+    { "name":"Crimson",
+        "code":"#DC143C"},
+
+    { "name":"DarkOrchid",
+        "code":"#9932CC"},
+    
+    { "name":"LightSkyBlue",
+        "code":"#87CEFA"}
+    
+]
